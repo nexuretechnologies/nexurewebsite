@@ -9,10 +9,6 @@ import Services from './pages/Services'
 import ContactUs from './pages/ContactUs'
 
 function App() {
-    const lenis = useLenis(({ scroll }) => {
-    // console.log('Current scroll position:', scroll);
-  });
-
   const lenisOptions = {
     lerp: 0.04,
     duration: 1.5,
