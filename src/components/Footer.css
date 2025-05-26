@@ -30,8 +30,9 @@
   list-style: none;
   padding: 0;
 }
-.footer a{
-    text-decoration: none;
+
+.footer a {
+  text-decoration: none;
   color: white;
   font-weight: bold;
   transition: color 0.3s ease;
@@ -40,10 +41,10 @@
 .footer a:hover {
   color: #f39c12;
 }
+
 .footer-logo {
   height: 5rem;
 }
-
 
 .social-icons {
   display: flex;
@@ -68,4 +69,58 @@ hr {
   text-align: center;
   font-size: 0.85rem;
   color: #bbb;
+}
+
+/* Mobile Responsive Styles */
+@media screen and (max-width: 535px) {
+  .footer {
+    padding: 2rem 1rem 1rem;
+    text-align: center;
+  }
+
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    text-align: center;
+  }
+
+  .footer-col {
+    text-align: center;
+  }
+
+  .footer-col h2,
+  .footer-col h3 {
+    text-align: center;
+    margin-bottom: 1.2rem;
+  }
+
+  .footer-col p {
+    text-align: center;
+    margin-bottom: 0.8rem;
+  }
+
+  .footer-col ul {
+    text-align: center;
+  }
+
+  .footer-col li {
+    text-align: center;
+    margin-bottom: 0.8rem;
+  }
+
+  .footer-logo {
+    height: 4rem;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+
+  .social-icons {
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .footer-bottom {
+    font-size: 0.8rem;
+    padding: 0 0.5rem;
+  }
 }
