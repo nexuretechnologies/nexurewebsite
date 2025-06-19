@@ -27,7 +27,7 @@ const Footer = () => {
           <h3>Contact Us</h3>
           <p><FaMapMarkerAlt /> Remote</p>
           <p><FaEnvelope /> nexuretechnologies@gmail.com</p>
-          <p><FaPhone /> +91 0987654321</p>
+          <p><FaPhone /> +91 7976465707</p>
         </div>
 
         <div className="footer-col">
