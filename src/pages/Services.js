@@ -37,32 +37,32 @@ const Services = () => {
           <div className="card">
             <h4>Web Development</h4>
             <p>Responsive websites that perform seamlessly across devices.</p>
-            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/9660059668?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
+            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/917976465707?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
           </div>
           <div className="card">
             <h4>App Development</h4>
             <p>Custom mobile apps for Android and iOS platforms.</p>
-            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/9660059668?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
+            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/917976465707?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
           </div>
           <div className="card">
             <h4>SEO</h4>
             <p>Boost visibility and ranking with effective SEO strategies.</p>
-            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/9660059668?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
+            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/917976465707?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
           </div>
           <div className="card">
             <h4>Graphics</h4>
             <p>Engaging graphics that capture and communicate your brand message.</p>
-            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/9660059668?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
+            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/917976465707?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
           </div>
           <div className="card">
             <h4>UI/UX Design</h4>
             <p>User-focused designs for intuitive and engaging experiences.</p>
-            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/9660059668?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
+            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/917976465707?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
           </div>
           <div className="card">
             <h4>Maintenance</h4>
             <p>Keep your products secure, updated, and performing at their best.</p>
-            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/9660059668?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
+            <button className="learn-more-btn" onClick={() => window.open('https://wa.me/917976465707?text=Hi%20there!%20I%27m%20interested%20in%20your%20services.', '_blank')}>Learn More</button>
           </div>
         </div>
       </div>
