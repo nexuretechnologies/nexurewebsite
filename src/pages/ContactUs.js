@@ -18,7 +18,7 @@ const ContactUs = () => {
           </p>
           <ul style={{ listStyleType: 'none', paddingLeft: 0, fontSize: '1.1rem', color: '#fff' }}>
             <li><strong>Email:</strong> nexuretechnologies@gmail.com</li>
-            <li><strong>Phone:</strong> +91 9876543210</li>
+            <li><strong>Phone:</strong> +91 7976465707</li>
             <li><strong>Address:</strong> Remote</li>
           </ul>
         </div>
